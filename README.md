@@ -27,7 +27,7 @@ const schema: JsonSchema = {
     required: ["name"],
 };
 
-const instance = { name: "Mark Joe" };
+const instance = { name: "Mark " };
 const result = validate(schema, instance);
 
 console.log(result); // { valid: true, absoluteKeywordLocation: "#", instanceLocation: "#" }
