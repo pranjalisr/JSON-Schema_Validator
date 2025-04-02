@@ -38,13 +38,13 @@ Run the tests with:
 bun test
 
 ## 📄 File Structure
-📂 json-schema-validator
- ┣ 📜 index.ts       # Core validation logic
- ┣ 📜 jsonSchemaValidator.test.ts  # Jest test cases
- ┣ 📜 package.json   # Project dependencies
- ┣ 📜 tsconfig.json  # TypeScript configuration
- ┣ 📜 README.md      # Documentation (this file)
-
+📂 json-schema-validator   
+ ┣ 📜 index.ts  # Core validation logic   
+ ┣ 📜 jsonSchemaValidator.test.ts # Jest test cases  
+ ┣ 📜 package.json   # Project dependencies   
+ ┣ 📜 tsconfig.json  # TypeScript configuration    
+ ┣ 📜 README.md      # Documentation (this file)    
+ 
 ## ✨ Contributing
 Feel free to open issues or submit pull requests. Contributions are welcome!
 
